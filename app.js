@@ -1,7 +1,7 @@
-follow this commands before running one by one in the terminal
-npm install v2
-npm install express
-npm install express cloudinary
+// follow this commands before running one by one in the terminal
+// npm install v2
+// npm install express
+// npm install express cloudinary
 
 
 const cloudinary = require('cloudinary').v2;
