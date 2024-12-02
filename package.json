@@ -10,6 +10,9 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "node": "^20.18.1"
+    "cloudinary": "^2.5.1",
+    "express": "^4.21.1",
+    "node": "^20.18.1",
+    "v2": "^0.0.3"
   }
 }
