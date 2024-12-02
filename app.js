@@ -1,4 +1,4 @@
-// follow this commands before running one by one in the terminal
+// to run open terminal and write node app.js but before running write the commands below one by one 
 // npm install node
 // npm install v2
 // npm install express
